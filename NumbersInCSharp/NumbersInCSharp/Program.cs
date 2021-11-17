@@ -2,6 +2,7 @@
 
 //WorkWithIntegers();
 //OrderPrecedence();
+//WorkWithDoubles();
 void WorkWithIntegers()
 { 
 
@@ -61,21 +62,38 @@ void OrderPrecedence()
 
 
 }
-double a = 5;
-double b = 4;
-double c = 2;
-double d = (a + b) / c;
-Console.WriteLine(d);
+void WorkWithDoubles()
+{
+    double a = 5;
+    double b = 4;
+    double c = 2;
+    double d = (a + b) / c;
+    Console.WriteLine(d);
 
-double e = 19;
-double f = 23;
-double g = 8;
-double h = (e + f) / g;
-Console.WriteLine(h);
+    double e = 19;
+    double f = 23;
+    double g = 8;
+    double h = (e + f) / g;
+    Console.WriteLine(h);
 
-double max = double.MaxValue;
-double min = double.MinValue;
-Console.WriteLine($"The range of double is {min} to {max}");
+    double max = double.MaxValue;
+    double min = double.MinValue;
+    Console.WriteLine($"The range of double is {min} to {max}");
 
-double third = 1.0 / 3.0;
-Console.WriteLine(third);
+    double third = 1.0 / 3.0;
+    Console.WriteLine(third);
+}
+
+decimal min = decimal.MinValue;
+decimal max = decimal.MaxValue;
+Console.WriteLine($"The range of the decimal type is {min} to {max}");
+
+double a = 1.0;
+double b = 3.0;
+Console.WriteLine(a / b);
+
+decimal c = 1.0M;
+decimal d = 3.0M;
+Console.WriteLine(c / d);
+
+
