@@ -1,0 +1,16 @@
+C:\Users\Krzysiek\Desktop\C# PreworkProjects\NumbersInCSharp\NumbersInCSharp\bin\Debug\net5.0\NumbersInCSharp.exe
+C:\Users\Krzysiek\Desktop\C# PreworkProjects\NumbersInCSharp\NumbersInCSharp\bin\Debug\net5.0\NumbersInCSharp.deps.json
+C:\Users\Krzysiek\Desktop\C# PreworkProjects\NumbersInCSharp\NumbersInCSharp\bin\Debug\net5.0\NumbersInCSharp.runtimeconfig.json
+C:\Users\Krzysiek\Desktop\C# PreworkProjects\NumbersInCSharp\NumbersInCSharp\bin\Debug\net5.0\NumbersInCSharp.runtimeconfig.dev.json
+C:\Users\Krzysiek\Desktop\C# PreworkProjects\NumbersInCSharp\NumbersInCSharp\bin\Debug\net5.0\NumbersInCSharp.dll
+C:\Users\Krzysiek\Desktop\C# PreworkProjects\NumbersInCSharp\NumbersInCSharp\bin\Debug\net5.0\ref\NumbersInCSharp.dll
+C:\Users\Krzysiek\Desktop\C# PreworkProjects\NumbersInCSharp\NumbersInCSharp\bin\Debug\net5.0\NumbersInCSharp.pdb
+C:\Users\Krzysiek\Desktop\C# PreworkProjects\NumbersInCSharp\NumbersInCSharp\obj\Debug\net5.0\NumbersInCSharp.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\Desktop\C# PreworkProjects\NumbersInCSharp\NumbersInCSharp\obj\Debug\net5.0\NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krzysiek\Desktop\C# PreworkProjects\NumbersInCSharp\NumbersInCSharp\obj\Debug\net5.0\NumbersInCSharp.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\Desktop\C# PreworkProjects\NumbersInCSharp\NumbersInCSharp\obj\Debug\net5.0\NumbersInCSharp.AssemblyInfo.cs
+C:\Users\Krzysiek\Desktop\C# PreworkProjects\NumbersInCSharp\NumbersInCSharp\obj\Debug\net5.0\NumbersInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\Desktop\C# PreworkProjects\NumbersInCSharp\NumbersInCSharp\obj\Debug\net5.0\NumbersInCSharp.dll
+C:\Users\Krzysiek\Desktop\C# PreworkProjects\NumbersInCSharp\NumbersInCSharp\obj\Debug\net5.0\ref\NumbersInCSharp.dll
+C:\Users\Krzysiek\Desktop\C# PreworkProjects\NumbersInCSharp\NumbersInCSharp\obj\Debug\net5.0\NumbersInCSharp.pdb
+C:\Users\Krzysiek\Desktop\C# PreworkProjects\NumbersInCSharp\NumbersInCSharp\obj\Debug\net5.0\NumbersInCSharp.genruntimeconfig.cache
