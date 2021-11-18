@@ -40,3 +40,19 @@ void ExploreIf()
         Console.WriteLine("And the first number is not greater than the second");
     }
 }
+int counter = 0;
+while (counter < 10)
+{
+    Console.WriteLine($"Hello World! The counter is {counter}");
+    counter++;
+}
+int counter2 = 0;
+do
+{
+    Console.WriteLine($"Hello World! The counter is {counter2}");
+    counter2++;
+} while (counter2 < 10);
+for (int index = 0; index < 10; index++)
+{
+    Console.WriteLine($"Hello World! The index is {index}");
+}
