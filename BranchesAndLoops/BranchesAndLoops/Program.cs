@@ -3,6 +3,7 @@
 using System;
 
 //ExploreIf();
+//ExploreLoops();
 
 void ExploreIf()
 {
@@ -40,19 +41,37 @@ void ExploreIf()
         Console.WriteLine("And the first number is not greater than the second");
     }
 }
-int counter = 0;
-while (counter < 10)
+void ExploreLoops()
 {
-    Console.WriteLine($"Hello World! The counter is {counter}");
-    counter++;
+    int counter = 0;
+    while (counter < 10)
+    {
+        Console.WriteLine($"Hello World! The counter is {counter}");
+        counter++;
+    }
+    int counter2 = 0;
+    do
+    {
+        Console.WriteLine($"Hello World! The counter is {counter2}");
+        counter2++;
+    } while (counter2 < 10);
+    for (int row = 1; row < 11; row++)
+    {
+        for (char column = 'a'; column < 'k'; column++)
+        {
+            Console.WriteLine($"The cell is ({row}, {column})");
+        }
+    }
 }
-int counter2 = 0;
-do
+//Challenge
+int sum = 0;
+int div = 3;
+for (int a = 1; a <= 20; a++)
 {
-    Console.WriteLine($"Hello World! The counter is {counter2}");
-    counter2++;
-} while (counter2 < 10);
-for (int index = 0; index < 10; index++)
-{
-    Console.WriteLine($"Hello World! The index is {index}");
+    if (a % div == 0) 
+    {
+        sum = sum + a;
+    }
+
 }
+Console.WriteLine($"Sum is {sum}");
